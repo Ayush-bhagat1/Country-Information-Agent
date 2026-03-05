@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.env
+.venv/
+venv/
+*.log
+.idea/
+.vscode/
+.git/
+.gitignore
+README.md
+EXPLANATION.md
+deployment.yaml

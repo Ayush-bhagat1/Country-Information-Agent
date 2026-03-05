@@ -1,7 +1,7 @@
 """
 Data models used across the agent pipeline.
 Defines the LangGraph state schema and Pydantic models for
-structured data passing between nodes.
+structured data passing between nodes
 """
 
 from enum import Enum
